@@ -158,6 +158,7 @@ First-party tools maintained by the Obsidian team that extend the core applicati
 * **[Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)** `⭐` — Excel-like keyboard navigation (`Tab`/`Enter`), auto-padding, sorting, and spreadsheet formulas in Markdown tables.
 * **[DB Folder](https://github.com/RafaelGB/obsidian-db-folder)** — Notion-style relational databases built on top of folders, tags, or Dataview queries.
 * **[Charts](https://github.com/phibr0/obsidian-charts)** — Render interactive Chart.js visualizations (Line, Bar, Pie, Radar) from Markdown tables or DataviewJS.
+* **[Agate](https://github.com/Casyfill/Agate)** — Create interactive, data-driven visualizations in Obsidian using Vega and Vega-Lite, with dynamic data, native Bases views, and extensive flexibility in chart types and visual design.
 * **[Table Extended](https://github.com/alx-plugins/table-extended)** — Adds cell merging (`colspan`/`rowspan`) and multi-line cells to Markdown tables.
 * **[Edit CSV](https://github.com/jon-heard/obsidian-csv-table)** — Open and edit `.csv` files directly in a spreadsheet grid inside Obsidian.
 
