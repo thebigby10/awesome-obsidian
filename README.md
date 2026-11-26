@@ -120,6 +120,7 @@ First-party tools maintained by the Obsidian team that extend the core applicati
 * **[Diagrams.net](https://github.com/jens-koster/obsidian-diagrams-net)** — Create and edit Draw.io flowcharts and architecture diagrams natively in your vault.
 * **[Mermaid Tools](https://github.com/dartungar/obsidian-mermaid)** — Adds a visual helper toolbar for inserting and editing Mermaid.js syntax.
 * **[PlantUML](https://github.com/joethei/obsidian-plantuml)** — Render UML sequence, class, and component diagrams directly from code blocks.
+* **[Easy TikZ](https://github.com/jv-k/obsidian-easy-tikz)** — Render LaTeX TikZ diagrams, mathematical plots, and vector graphics directly in your notes.
 
 ### Editor & Writing Enhancements
 
