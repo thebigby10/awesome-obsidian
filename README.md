@@ -272,6 +272,7 @@ Tools outside Obsidian that integrate with your vault via URIs, local files, or 
 * **[Alfred Obsidian Utilities](https://github.com/chrisgrieser/shimmering-obsidian)** `🖥️` — Comprehensive Alfred workflow for vault search, screenshot capture, and workspace switching.
 * **[Actions for Obsidian](https://actions.work/actions-for-obsidian)** — Deep Apple Shortcuts integration for iOS, iPadOS, and macOS (append/prepend, search, get properties).
 * **[Drafts](https://getdrafts.com/)** — Lightning-fast text capture app on iOS/macOS with native actions to send notes straight into Obsidian vaults.
+* **[Keepfold](https://github.com/alenissacsam-2/keepfold)** `🖥️` — Local MCP server and Windows app that keeps one memory for Claude, Cursor, Codex and Gemini CLI as plain Markdown notes in a folder that opens as an Obsidian vault.
 * **[Quick Capture / Fleeting Notes](https://github.com/fleetingnotes/fleeting-notes-flutter)** — Lightweight mobile scratchpad syncing quick ideas directly into Obsidian.
 * **[SQLite Graph Memory](https://github.com/tonydzi/sqlite-graph-memory)** `🖥️` — Local MCP server and CLI that indexes a Markdown vault into SQLite and follows wikilinks to find related notes for Claude Code, Cursor, or Codex.
 * **[Syncthing](https://syncthing.net/)** — Free, open-source peer-to-peer file synchronization across Windows, macOS, Linux, and Android.
