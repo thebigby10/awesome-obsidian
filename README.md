@@ -286,6 +286,7 @@ Migrate existing archives into clean Obsidian-compatible Markdown.
 * **[Yarle (Yet Another Rope Ladder from Evernote)](https://github.com/akosbalasko/yarle)** `⭐` — The gold-standard converter for `.enex` exports, preserving tags, creation dates, attachments, and internal links.
 * **[Notion-to-Obsidian](https://github.com/connertennery/Notion-to-Obsidian-Converter)** — Strips Notion UUID hashes from filenames and links while fixing CSV databases.
 * **[keep-it-markdown (KIM)](https://github.com/djsudduth/keep-it-markdown)** — Converts Google Keep exports and notes into frontmatter-tagged Markdown.
+* **[ChatGPT & Claude JSON to Markdown](https://github.com/oneguo-boop/chatgpt-claude-json-to-markdown)** — 100% offline, zero-dependency browser converter that turns official ChatGPT export `.zip` / `conversations.json` and Claude archives into Obsidian Markdown with YAML frontmatter.
 * **[DayOne JSON to MD](https://github.com/QuantumMobile/DayOne-JSON-to-MD)** — Migrates Day One journal entries, locations, weather metadata, and photos.
 * **[Goodsidian](https://github.com/selfire1/goodsidian)** — Syncs your Goodreads shelves, ratings, and reviews into structured book notes.
 * **[Readwise / Zotero / Hypothesis Scripts](https://github.com/out-of-cheese-error/gooseberry)** — CLI tools (`gooseberry`, etc.) to pull web annotations into Markdown.
